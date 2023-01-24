@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/andre/OneDrive/Escritorio/madame-/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\madame_.dir\\main.cpp.obj -c C:\\Users\\andre\\OneDrive\\Escritorio\\madame-\\main.cpp",
+  "file": "C:/Users/andre/OneDrive/Escritorio/madame-/main.cpp"
+},
+{
+  "directory": "C:/Users/andre/OneDrive/Escritorio/madame-/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\madame_.dir\\madame.cpp.obj -c C:\\Users\\andre\\OneDrive\\Escritorio\\madame-\\madame.cpp",
+  "file": "C:/Users/andre/OneDrive/Escritorio/madame-/madame.cpp"
+},
+{
+  "directory": "C:/Users/andre/OneDrive/Escritorio/madame-/build",
+  "command": "C:\\TDM-GCC-64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\madame_.dir\\monsieur.cpp.obj -c C:\\Users\\andre\\OneDrive\\Escritorio\\madame-\\monsieur.cpp",
+  "file": "C:/Users/andre/OneDrive/Escritorio/madame-/monsieur.cpp"
+}
+]
